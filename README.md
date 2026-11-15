@@ -200,11 +200,3 @@ The generated `adv_report.csv` contains the per-image evaluation results for the
 - **PSNR:** Measures image similarity using the peak signal-to-noise ratio.
 - **Inference Count:** Records the number of model queries used for each image.
 
-## 10. Submission Files
-
-Include the following files in the project submission:
-
-- `BLACK_BOX_SOLN.ipynb`
-- `adv_images/` containing the generated adversarial PNG images
-- `adv_report.csv`
-- The project README
